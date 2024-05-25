@@ -1,2 +1,2 @@
 # multi-purpose-calculator
- I created a multi-purpose calculator using C++.
+ I created a multi-purpose calculator using C++. It can do multiple things such as addition, subtraction, division, multiplication, finding cubic/square root, finding the area of a basic triangle, and the perimeter of a square. It can check if a number is prime or not and I also implemented a Guess the Number game. On top of that, it also has a Trivia Quiz with a Lilo & Stitch theme. Have fun!
